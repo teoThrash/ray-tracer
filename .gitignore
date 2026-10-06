@@ -1,0 +1,5 @@
+*.ppm
+build/
+cmake-build-*/
+.vscode/
+.idea/
