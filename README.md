@@ -46,10 +46,6 @@ PPM files can be opened with GIMP, IrfanView or similar, or converted to PNG wit
 | `material.h` | Diffuse, metal and dielectric materials |
 | `texture.h`, `perlin.h`, `rtw_stb_image.h` | Textures, Perlin noise and image loading |
 
-## What I learned
-
-[One or two sentences, e.g. how the BVH changed render time, or what was hard about refraction. Add real numbers if you have them, like "render time dropped from X to Y".]
-
 ## Credits
 
 Based on *Ray Tracing in One Weekend* and *Ray Tracing: The Next Week* by Peter Shirley, Trevor David Black and Steve Hollasch. Image loading uses [`stb_image`](https://github.com/nothings/stb) (public domain).
