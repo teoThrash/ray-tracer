@@ -1,8 +1,8 @@
 # Ray Tracer (C++)
 
-A CPU ray tracer written in C++, built by following Peter Shirley's [*Ray Tracing in One Weekend*](https://raytracing.github.io/) book series, which I extended with [describe your own additions, or delete this clause].
+A CPU ray tracer written in C++, built by following Peter Shirley's [*Ray Tracing in One Weekend*](https://raytracing.github.io/) 
 
-![Render](docs/demo.png)
+![Render](/ray_tracing_in_a_weekend/docs/demo.png)
 
 ## Features
 
